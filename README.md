@@ -12,5 +12,11 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 ---
 
+## 📂 Project Management Docs
+
+OctoAcme's project management process documents live in the [`docs/`](docs/) folder. See the **[docs/README.md](docs/README.md)** for a full overview of our approach, a guide to each document, and instructions for contributing updates.
+
+---
+
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
